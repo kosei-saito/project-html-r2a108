@@ -1,0 +1,23 @@
+table{
+  font-size: 1.2rem;
+}
+table tr:nth-child(1){
+  background: yellow;
+}
+th{
+  background: yellow;
+}
+table{
+  border-collapse: collapse
+}
+table {
+  border:2px solid #000000;
+}
+th {
+  border:2px solid #000000;
+  padding: 2px;
+}
+td {
+  border:2px solid #000000;
+  padding: 2px;
+}
